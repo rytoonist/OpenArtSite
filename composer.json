@@ -2,17 +2,13 @@
     "name": "openartsite/openartsite",
     "description": "An open source art site framework for the masses",
     "type": "project",
-    "autoload": {
-        "psr-4": {
-            "OpenArtSite\\": "engine/"
-        }
-    },
     "authors": [
         {
             "name": "Ryan Boylett",
-            "email": "ryan@tinyllama.co.uk"
+            "email": "ryan@openartsite.io"
         }
     ],
+    "license": "Apache-2.0",
     "minimum-stability": "stable",
     "require": {
         "php-64bit": ">=8.0"
