@@ -1,5 +1,5 @@
 # OpenArtSite
-An open source art site for the masses
+An open source art site framework for the masses.
 
 ### What?
 You can read about this project [here](https://github.com/rytoonist/OpenArtSite/discussions/1#discussion-3798502).
