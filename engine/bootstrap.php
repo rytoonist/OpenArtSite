@@ -1,8 +1,8 @@
 <?php
 
-	/**
-	 * OpenArtSite | Apache-2.0 License | © OpenArtSite.io 2022
-	 */
+  /**
+   * OpenArtSite | Apache-2.0 License | © OpenArtSite.io 2022
+   */
 
   final class Bootstrap {
     /**
