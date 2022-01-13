@@ -6,4 +6,4 @@
 	
 	\spl_autoload_register();
 
-	\engine\bootstrap::init();
+	\Engine\Bootstrap::init();
