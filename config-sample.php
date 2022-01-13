@@ -1,5 +1,10 @@
 <?php
 
+  /**
+   * Remember to rename this file to 'config.php'
+   * after you have added your own config information
+   */
+
   return [
     "database" => [
       "primary" => [
