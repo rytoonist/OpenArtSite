@@ -1,0 +1,8 @@
+FROM php:8.0-fpm
+RUN apt update && \
+	apt install -y zlib1g-dev libpng-dev && \
+	rm -rf /var/lib/apt/lists/* && \
+    pecl channel-update pecl.php.net && \
+    pecl install yaf && \
+	docker-php-ext-install gd mysqli pdo pdo_mysql && \
+	docker-php-ext-enable gd mysqli pdo pdo_mysql

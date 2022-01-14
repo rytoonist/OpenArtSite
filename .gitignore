@@ -1,0 +1,7 @@
+*.sublime-project
+
+/composer.lock
+/config.php
+
+/npm_modules
+/vendor
